@@ -52,3 +52,4 @@ else {
     document.querySelector("h1").innerHTML = "You loose";
     console.log("you loose3");
 }
+
